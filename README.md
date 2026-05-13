@@ -1,5 +1,5 @@
-# vehicle_parking_app
-  The Vehicle Parking App - is a multi-user web application to manage 4-wheeler parking. Admins can create  
+# MAD-1_Parking_App
+  It is a multi-user web application to manage 4-wheeler parking. Admins can create  
 and manage parking lots and monitor all user activity. Users can register, book, and release  
 spots. 
 

@@ -1,6 +1,7 @@
-# vehicle_parking_app
-  The Vehicle Parking App - V1 is a web-based parking management system designed for 4-wheeler parking. Built using Flask (Python) for the backend, Jinja2, HTML, CSS, and Bootstrap for the frontend, and SQLite for data storage, this application allows both administrators and users to manage and reserve parking spots across multiple parking lots.
-
+# MAD-1_Parking_App
+  It is a multi-user web application to manage 4-wheeler parking. Admins can create  
+and manage parking lots and monitor all user activity. Users can register, book, and release  
+spots. 
 
   ## 🛠️ Technologies Used
 
@@ -13,6 +14,7 @@
 | **HTML/CSS/Bootstrap**  | UI structure and styling for a responsive and clean frontend            |
 | **pytz, datetime**      | Handling and formatting timezone-aware timestamps                       |
 
+## ER Diagram
+<img width="1182" height="621" alt="image" src="https://github.com/user-attachments/assets/42c2dc04-0e8f-4654-a348-ade7cd05c217" />
 
-### Video link
-https://drive.google.com/file/d/1_E1yT4FMZPIuX3bICIsiLf5PPzwXrOYY/view?usp=drive_link
+
